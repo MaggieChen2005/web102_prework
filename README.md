@@ -35,7 +35,7 @@ GIF created with LICEcap
 
 ## Notes
 
-One challenge I faced druing this activity was understanding how to use and implement the reduce() function. I also had trouble pushing certain items such as my gif video because of sizing issues.
+One challenge I faced was pushing certain items, such as my GIF video due to sizing related issues.
 ## License
 
     Copyright 2026 Maggie Chen
