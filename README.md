@@ -35,11 +35,10 @@ GIF created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+One challenge I faced druing this activity was understanding how to use and implement the reduce() function. I also had trouble pushing certain items such as my gif video because of sizing issues.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2026 Maggie Chen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
